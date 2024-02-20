@@ -18,7 +18,7 @@
 
 	<properties>
 		<java.version>21</java.version>
-		<micrometer-tracing.version>1.2.2</micrometer-tracing.version>
+		<micrometer-tracing.version>1.2.3</micrometer-tracing.version>
 		<springdoc.version>2.3.0</springdoc.version>
 	</properties>
 
